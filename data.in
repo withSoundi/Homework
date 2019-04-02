@@ -1,0 +1,10 @@
+S SYN
+R SYN
+R ACK
+S FIN
+R F+A
+S SYN
+S ACK
+R SYN
+S FIN
+0 0

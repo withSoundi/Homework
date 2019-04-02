@@ -1,0 +1,22 @@
+Please input 'operate' + 'message' and press enter(or input 'close it'). Input '0 0' to end it.
+Now the TCP's conditon is Closed
+S SYN
+Now the TCP's conditon is SYN_sent
+R SYN
+Now the TCP's conditon is SYN_rcvd
+R ACK
+Now the TCP's conditon is Established
+S FIN
+Now the TCP's conditon is Fin_wait_1
+R F+A
+Now the TCP's conditon is Time_wait
+Now the TCP's conditon is Closed
+S SYN
+Now the TCP's conditon is SYN_sent
+S ACK
+Now the TCP's conditon is Established
+R SYN
+Now the TCP's conditon is Close_wait
+S FIN
+Now the TCP's conditon is Last_ack
+0 0
