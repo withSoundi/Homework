@@ -20,7 +20,8 @@ int main() {
     r[9] = "Close_wait";
     r[10] = "Last_ack";
     string e, msg;
-    cout << "Please input 'operate' + 'message' and press enter(or input 'close it'). Input '0 0' to end it." << endl;
+    cout << "Please input 'operate' + 'message' and press enter(or input 'close it')." << endl;
+    cout << "Input '0 0' to end it." << endl;
     cout << "Now the TCP's conditon is " << r[0] << endl;
     int cur = 0;
     while(1) {
